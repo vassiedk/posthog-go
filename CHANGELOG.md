@@ -1,3 +1,19 @@
+## 1.6.8
+
+* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.6.7...v1.6.8)
+
+## 1.6.7
+
+* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.6.6...v1.6.7)
+
+## 1.6.6
+
+* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.6.5...v1.6.6)
+
+## 1.6.5
+
+* [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.6.4...v1.6.5)
+
 ## 1.6.4
 
 * [Full Changelog](https://github.com/PostHog/posthog-go/compare/v1.6.3...v1.6.4)
